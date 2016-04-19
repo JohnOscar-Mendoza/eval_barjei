@@ -1,0 +1,122 @@
+/*
+@font-face
+{
+	font-family: "gothammedium";
+	src: url("../fonts/gotham_medium.woff2");
+}
+@font-face
+{
+font-family: "gothamthin";
+src: url("../fonts/gotham_thin.woff2");
+}
+*/
+
+body
+{
+
+}
+
+.form-log-in
+{
+	max-width: 330px;
+	margin: 0 auto;
+}
+
+.divider
+{
+	margin:15px;
+}
+
+a#forgot-pass
+{
+	margin-top: 15px;
+	float: right;
+	text-decoration: none;
+}
+
+#log-in-container
+{
+	margin-top: 15%;
+}
+
+.add-account
+{
+	max-width: 70%;
+	margin: 0 auto;
+}
+
+.form-control
+{
+	width: 185px;
+	/*margin: 0 auto;*/
+}
+
+.table-head
+{
+	text-align: right;
+}
+
+#ad-first
+{
+	width: 90px;
+	height: 720px;
+	background-color: #aaaaaa;
+	float: right;
+}
+
+div.btn-group > input.btn
+{
+	width: 95px;
+}
+
+div#dataTable_filter.dataTables_filter
+{
+	float: right;
+}
+
+.img-display
+{
+	margin:0 auto; 
+	display:block;
+	max-width: 50px;
+}
+
+.user-info
+{
+	text-align: right;
+}
+
+#td-image
+{
+	width: 5%;
+}
+
+.td-users
+{
+	border-right: none !important;
+	border-left: none !important;
+}
+
+.tr-users
+{
+	border-right: none !important;
+	border-left: none !important;
+}
+
+#tr-head
+{
+	display: none;
+}
+
+span.user-info > p
+{
+	float: left;
+}
+
+.preview
+{
+	float:left;
+	width:200px;
+	position:relative;
+	padding:5px;
+}
